@@ -15,7 +15,7 @@ The project demonstrates an end-to-end workflow starting from a customer support
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 Customer support teams handle a large number of calls every day. Manually listening to and analyzing these conversations can be time-consuming.
 
@@ -33,7 +33,7 @@ The solution performs the following tasks:
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
                     Customer Support Data
@@ -57,21 +57,23 @@ The solution performs the following tasks:
 
 
 
-## Technologies Used:
-
-Technology	Purpose
-Python	Core programming language
-Pandas	Data loading and data manipulation
-NLTK	Natural Language Processing
-VADER	Sentiment analysis
-SpeechRecognition	Speech-to-text conversion
-pydub	Audio processing and metadata extraction
-spaCy	Named Entity Recognition and semantic similarity
-en_core_web_sm	English NLP model
-Jupyter Notebook	Development environment
 
 
-# Conclusion
+## Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Core programming language |
+| Pandas | Data loading and data manipulation |
+| NLTK | Natural Language Processing |
+| VADER | Sentiment analysis |
+| SpeechRecognition | Speech-to-text conversion |
+| pydub | Audio processing and metadata extraction |
+| spaCy | Named Entity Recognition and semantic similarity |
+| en_core_web_sm | English NLP model |
+| Jupyter Notebook | Development environment |
+
+## Conclusion
 
 The **Customer Support Call Analysis** project demonstrates an end-to-end approach to extracting useful insights from customer support calls.
 
@@ -81,4 +83,4 @@ The project combines:
 
 to convert unstructured customer conversations into structured information that can support business decision-making.
 
-The solution provides a foundation for developing a more advanced **AI-powered Customer Support Analytics Platform** using modern speech recognition models, transformer-based NLP, embeddings, vector databases, LLMs, and business intelligence dashboards.
+The solution provides a foundation for developing a more advanced **AI-powered Customer Support Analytics Platform** using modern speech recognition models, transformer-based NLP, embeddings, vector databases, Large Language Models (LLMs), and business intelligence dashboards.transformer-based NLP, embeddings, vector databases, LLMs, and business intelligence dashboards.
